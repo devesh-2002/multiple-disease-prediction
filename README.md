@@ -7,7 +7,7 @@ https://github.com/<username>/multiple-disease-prediction
 2. Clone the Repo in your local system.
 3. cd into the Project, run to install the requirements: 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 4. Run the command in terminal :
 ```
